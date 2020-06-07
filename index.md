@@ -1,5 +1,5 @@
 ---
-layout: page_custom
+layout: page
 #
 # Content
 #
