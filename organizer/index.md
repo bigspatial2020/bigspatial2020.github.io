@@ -60,21 +60,20 @@ Email: szaidi2 at buffalo dot edu
 
 ## Program Committee
  * [Sorokine Alexandre](https://web.ornl.gov/sci/gist/staff_bios/detailed_sorokine.shtml){:target="_blank"}, ORNL
- * Mohan Pradeep, SAS Institute Inc.
  * [Meger Nicolas](https://www.listic.univ-smb.fr/en/presentation-en/members/lecturers/nicolas-meger-en/){:target="_blank"}, Université de Savoie - LISTIC laboratory
- * [Li Ki-Joune](http://isel.cs.pusan.ac.kr/~lik/likEng.html){:target="_blank"}, Pusan National University
- * [Yoo Eunhye](https://www.buffalo.edu/cas/geography/faculty/faculty_directory/eun-hye-enki-yoo.html){:target="_blank"}, University at Buffalo
  * Raffaeta' Alessandra, Universita' Ca' Foscari Venezia
- * [Janeja Vandana](https://userpages.umbc.edu/~vjaneja/){:target="_blank"}, UMBC, Is Department
  * Durbha Surya, IIT Bombay
  * [Filippi Anthony](https://geography.tamu.edu/people/profiles/faculty/filippianthony.html), Texas A&M University
  * [Wachowicz Monica](http://www.unb.ca/faculty-staff/directory/engineering-geomatics/wachowicz-monica.html){:target="_blank"}, University of New Brunswick
- * Cuzzocrea Alfredo, ICAR-CNR and University of Calabria
- * Manco Giuseppe, ICAR-CNR
  * Jun Goo, University of Texas Health Science Center at Houston
  * [Wang Fusheng](https://www.cs.stonybrook.edu/people/faculty/FushengWang){:target="_blank"}, Stony Brook University
- * [Pang-Ning Tan](http://www.cse.msu.edu/~ptan/), Michigan State University
  * [Zhou Xun](https://www.biz.uiowa.edu/faculty/xzhou/), The University of Iowa
  * [Zhang Jianting](https://www.ccny.cuny.edu/profiles/jianting-zhang){:target="_blank"}, City University of New York
+ * [Kurte Kuldeep] (https://www.ornl.gov/staff-profile/kuldeep-r-kurte){:target="_blank"}, ORNL
+ * Mohan Pradeep, SAS Institute Inc.
+ * [Li Ki-Joune](http://isel.cs.pusan.ac.kr/~lik/likEng.html){:target="_blank"}, Pusan National University
+ * [Yoo Eunhye](https://www.buffalo.edu/cas/geography/faculty/faculty_directory/eun-hye-enki-yoo.html){:target="_blank"}, University at Buffalo
+ * Cuzzocrea Alfredo, ICAR-CNR and University of Calabria
+ * Manco Giuseppe, ICAR-CNR
  * [Croitoru Arie](https://cos.gmu.edu/ggs/people/faculty-staff/arie-croitoru/){:target="_blank"}, George Mason University
  * [Huang Yan](http://www.cse.unt.edu/~huangyan/), University of North Texas
