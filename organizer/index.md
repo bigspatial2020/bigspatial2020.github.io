@@ -69,7 +69,7 @@ Email: szaidi2 at buffalo dot edu
  * [Wang Fusheng](https://www.cs.stonybrook.edu/people/faculty/FushengWang){:target="_blank"}, Stony Brook University
  * [Zhou Xun](https://www.biz.uiowa.edu/faculty/xzhou/), The University of Iowa
  * [Zhang Jianting](https://www.ccny.cuny.edu/profiles/jianting-zhang){:target="_blank"}, City University of New York
- * [Kurte Kuldeep] (https://www.ornl.gov/staff-profile/kuldeep-r-kurte){:target="_blank"}, ORNL
+ * [Kurte Kuldeep](https://www.ornl.gov/staff-profile/kuldeep-r-kurte){:target="_blank"}, ORNL
  * Mohan Pradeep, SAS Institute Inc.
  * [Li Ki-Joune](http://isel.cs.pusan.ac.kr/~lik/likEng.html){:target="_blank"}, Pusan National University
  * [Yoo Eunhye](https://www.buffalo.edu/cas/geography/faculty/faculty_directory/eun-hye-enki-yoo.html){:target="_blank"}, University at Buffalo
