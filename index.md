@@ -65,7 +65,7 @@ All submitted papers will be peer reviewed. We have identified a set of research
 ## Important Dates
 
 * **Paper Submission:** <span><strike>August 31, 2020</strike> September 7, 2020</span>
-* **Notification of Acceptance:** <span>September 21, 2020</span>
+* **Notification of Acceptance:** <span><strike>September 21, 2020</strike> October 1, 2020</span>
 * **Camera Ready Paper Due:** <span>October 4, 2020</span>
 
 All submissions are due at 11:59 PM Pacific Standard Time.
