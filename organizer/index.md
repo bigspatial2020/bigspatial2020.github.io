@@ -71,9 +71,4 @@ Email: szaidi2 at buffalo dot edu
  * [Zhang Jianting](https://www.ccny.cuny.edu/profiles/jianting-zhang){:target="_blank"}, City University of New York
  * [Kurte Kuldeep](https://www.ornl.gov/staff-profile/kuldeep-r-kurte){:target="_blank"}, ORNL
  * Mohan Pradeep, SAS Institute Inc.
- * [Li Ki-Joune](http://isel.cs.pusan.ac.kr/~lik/likEng.html){:target="_blank"}, Pusan National University
- * [Yoo Eunhye](https://www.buffalo.edu/cas/geography/faculty/faculty_directory/eun-hye-enki-yoo.html){:target="_blank"}, University at Buffalo
- * Cuzzocrea Alfredo, ICAR-CNR and University of Calabria
- * Manco Giuseppe, ICAR-CNR
  * [Croitoru Arie](https://cos.gmu.edu/ggs/people/faculty-staff/arie-croitoru/){:target="_blank"}, George Mason University
- * [Huang Yan](http://www.cse.unt.edu/~huangyan/), University of North Texas
