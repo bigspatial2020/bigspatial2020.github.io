@@ -30,6 +30,7 @@ float: left;
 #### Title: MoveTK: The Movement Toolkit
 
 #### Speaker: Aniket Mitra    
+![Aniket Mitra](./images/aniket.jpg)
 
 #### Abstract:    
 Movement data is (geo-)spatial in nature, wherein the location of objects over time is recorded. Such datasets can be predominantly GPS, but can also have other forms like video tracking. The data associated with one moving object forms a trajectory: a sequence of measured locations with the associated time of measurement.
