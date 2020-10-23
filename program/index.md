@@ -36,7 +36,7 @@ header:
 
 #### Session 2
 
-* `09:55 - 10:40` : **Learning Spatial Embedding**
+* `09:55 - 10:40` : **Learning Spatial Embedding**    
 *Ranga Raju Vatsavai, North Carolina State University*  -- [**Keynote Talk**](/program/keynotes/#talk2)
 
 * `10:40 - 11:05` : **Giving meaning to unsupervised EO change detection rasters: a semantic-driven approach**    
