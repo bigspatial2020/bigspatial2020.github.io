@@ -4,7 +4,7 @@ layout: page_custom
 # Content
 #
 subheadline: ""
-title: "Program (All times are in PST)"
+title: "Program"
 teaser: "Tuesday, November 3, 2020 - Seattle, Washington, USA"
 header:
    title: "9th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data (BigSpatial 2020)"
