@@ -13,7 +13,7 @@ header:
    permalink: "/program/"
 ---
 
-All times are in PST
+**All times are in PST**
 
 
 ---------------------------------------
