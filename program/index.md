@@ -27,7 +27,7 @@ header:
 * `08:15 - 09:00` : **MoveTK: The Movement Toolkit**   
 *Aniket Mitra, Here Technologies* -- [**Keynote Talk**](/program/keynotes/#talk1)
 
-* `09:00 - 09:25` : **Scalable Unsupervised Multi-Criteria Trajectory Segmentation and Driving Preference Mining** [![](../images/youtube_icon.png)](https://youtu.be/b_zBT15eIvw)  
+* `09:00 - 09:25` : **Scalable Unsupervised Multi-Criteria Trajectory Segmentation and Driving Preference Mining** <a target="_blank"  href="https://youtu.be/b_zBT15eIvw"><img src="../images/youtube_icon.png" style="max-height:20px;"></a>  
 *Florian Barth, Stefan Funke, Tobias Skovgaard Jepsen, Claudius Proissl*
 
 ---------------------------------------
