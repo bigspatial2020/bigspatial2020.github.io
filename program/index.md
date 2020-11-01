@@ -47,7 +47,7 @@ header:
 * `11:05 - 11:30` : **Creating Cloud-Free Satellite Imagery from Image Time Series with Deep Learning** [![](../images/youtube_icon.png)](https://youtu.be/jlvFIyZSMac)  
 *Stefan Oehmcke, Tzu-Hsin Karen Chen, Alexander V. Prishchepov, Fabian Gieseke*
 
-* `11:30 - 11:55` : **Convolutional neural networks with hierarchical context transfer for high-resolution spatiotemporal predictions** [![](../images/youtube_icon.png)](https://youtu.be/QYgPWaCGai8)  
+* `11:30 - 11:55` : **Convolutional neural networks with hierarchical context transfer for high-resolution spatiotemporal predictions** [![](../images/youtube_icon.png){:height="20px"}](https://youtu.be/QYgPWaCGai8)  
 *Ksenia D. Mukhina, Alexander A. Visheratin, Denis Nasonov*
 
 ---------------------------------------
@@ -61,10 +61,11 @@ header:
 * `12:25 - 12:50` : **Comparative Analysis of Deep Transfer Learning Performance on Crop Classification**    
 *Krishna Karthik Gadiraju, Ranga Raju Vatsavai*
 
-* `12:50 - 13:10` : **High-Dimensional Spatial Simulation Ensemble Analysis**    
+* `12:50 - 13:10` : **High-Dimensional Spatial Simulation Ensemble Analysis**  [![](../images/youtube_icon.png)](https://youtu.be/_Ndwt1Yc0Dw)  
+
 *Mai Dahshan, Leanna House, Nicholas Polys*
 
-* `13:10 - 13:35` : **A Geographic Computational Visual Feature Database for Natural and Anthropogenic Phenomena Analysis from Multi-Resolution Remote Sensing Imagery **    
+* `13:10 - 13:35` : **A Geographic Computational Visual Feature Database for Natural and Anthropogenic Phenomena Analysis from Multi-Resolution Remote Sensing Imagery **  [![](../images/youtube_icon.png)](https://youtu.be/dNcfVzvXgV8)   
 *Yulin Cao, Butros M. Dahu, Grant J. Scott*
 
 ---------------------------------------
