@@ -27,9 +27,7 @@ header:
 * `08:15 - 09:00` : **MoveTK: The Movement Toolkit**   
 *Aniket Mitra, Here Technologies* -- [**Keynote Talk**](/program/keynotes/#talk1)
 
-* `09:00 - 09:25` : **Scalable Unsupervised Multi-Criteria Trajectory Segmentation and Driving Preference Mining** [![](/images/youtube_icon)](https://youtu.be/b_zBT15eIvw)
-
-![]()
+* `09:00 - 09:25` : **Scalable Unsupervised Multi-Criteria Trajectory Segmentation and Driving Preference Mining** [![](../images/youtube_icon)](https://youtu.be/b_zBT15eIvw)  
 *Florian Barth, Stefan Funke, Tobias Skovgaard Jepsen, Claudius Proissl*
 
 ---------------------------------------
@@ -43,13 +41,13 @@ header:
 * `09:55 - 10:40` : **Learning Spatial Embedding**    
 *Ranga Raju Vatsavai, North Carolina State University*  -- [**Keynote Talk**](/program/keynotes/#talk2)
 
-* `10:40 - 11:05` : **Giving meaning to unsupervised EO change detection rasters: a semantic-driven approach**    
+* `10:40 - 11:05` : **Giving meaning to unsupervised EO change detection rasters: a semantic-driven approach** [![](../images/youtube_icon)](https://youtu.be/A8JFugW1qjg)  
 *Jordane Dorne, Nathalie Aussenac-Gilles, Catherine Comparot, Cassia Trojahn, Romain Hugues*
 
-* `11:05 - 11:30` : **Creating Cloud-Free Satellite Imagery from Image Time Series with Deep Learning**    
+* `11:05 - 11:30` : **Creating Cloud-Free Satellite Imagery from Image Time Series with Deep Learning** [![](../images/youtube_icon)](https://youtu.be/jlvFIyZSMac)  
 *Stefan Oehmcke, Tzu-Hsin Karen Chen, Alexander V. Prishchepov, Fabian Gieseke*
 
-* `11:30 - 11:55` : **Convolutional neural networks with hierarchical context transfer for high-resolution spatiotemporal predictions**    
+* `11:30 - 11:55` : **Convolutional neural networks with hierarchical context transfer for high-resolution spatiotemporal predictions** [![](../images/youtube_icon)](https://youtu.be/QYgPWaCGai8)  
 *Ksenia D. Mukhina, Alexander A. Visheratin, Denis Nasonov*
 
 ---------------------------------------
