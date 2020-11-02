@@ -62,7 +62,6 @@ He has published more than 100 peer-reviewed articles in conferences and journal
 
 ---------------------------------------
 
-<br />
 
 
 
