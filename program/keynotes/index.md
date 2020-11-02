@@ -22,10 +22,8 @@ float: left;
 }
 </style> 
 
-<a id="talk1"> </a> 
-
 ---------------------------------------
-<br />
+<a id="talk1"> </a> 
   
 #### Title: MoveTK: The Movement Toolkit
 
@@ -46,10 +44,7 @@ Aniket Mitra is a Lead Research Engineer at HERE Technologies working on algorit
 
 
 ---------------------------------------
-<br />
-
 <a id="talk2"> </a> 
-
   
 #### Title: GeoAI: Recent Advances in Machine Learning for Global Earth Observations
 
