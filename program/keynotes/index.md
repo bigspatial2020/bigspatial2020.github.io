@@ -65,6 +65,7 @@ He works at the intersection of spatial and temporal big data management, analyt
 
 He has published more than 100 peer-reviewed articles in conferences and journals and edited two books on “Knowledge Discovery from Sensor Data.” He served on program committees of leading international conference including ACM KDD, ACM GIS, ECML/PKDD, SDM, CIKM, IEEE BigData, and co-chaired several workshops including ICDM/SSTDM, ICDM/KDCloud, ACM SIGSPATIAL BigSpatial, Supercomputing/BDAC, KDD/LDMTA, KDD/Sensor-KDD, and SDM/ACS. He holds MS and PhD degrees in computer science from the University of Minnesota. At present, he is on leave from the NCSU and working as Distinguished Research Fellow at Lirio.
 
+
 ---------------------------------------
 
 <br />
