@@ -46,6 +46,25 @@ Aniket Mitra is a Lead Research Engineer at HERE Technologies working on algorit
 
 ---------------------------------------
 
+---------------------------------------
+<br />
+  
+#### Title: GeoAI: Recent Advances in Machine Learning for Global Earth Observations
+
+#### Speaker: Dr. Ranga Raju Vatsavai    
+![Dr. Ranga Raju Vatsavai](./images/raju.jpg)
+
+#### Abstract:    
+Global earth observations with constellation of more than 100 operational satellites are providing unprecedented spatiotemporal data coverage, which can be exploited to continuously monitor key resources. Earth is a dynamical system continually changing due to both natural and human induced factors. Recent decade has witnessed major changes on the Earth, for example, deforestation, varying cropping and human settlement patterns, and crippling damages due to disasters. Monitoring this dynamic phenomenon is critical for human wellbeing. In this talk we will explore recent advances in AI and machine learning for monitoring natural and as well as man-made structures from local to global scales.
+
+#### Speaker Bio: 
+Dr. Raju Vatsavai is a Chancellor’s Faculty Excellence Program Cluster Associate Professor in the Computer Science department at the North Carolina State University.
+
+He works at the intersection of spatial and temporal big data management, analytics, and high-performance computing with applications in the national security, geospatial intelligence, natural resources, climate change, location-based services, and human terrain mapping. As the Associate Director of the Center for Geospatial Analytics (CGA), Raju plays a leadership role in the center’s strategic vision for spatial computing research.
+
+He has published more than 100 peer-reviewed articles in conferences and journals and edited two books on “Knowledge Discovery from Sensor Data.” He served on program committees of leading international conference including ACM KDD, ACM GIS, ECML/PKDD, SDM, CIKM, IEEE BigData, and co-chaired several workshops including ICDM/SSTDM, ICDM/KDCloud, ACM SIGSPATIAL BigSpatial, Supercomputing/BDAC, KDD/LDMTA, KDD/Sensor-KDD, and SDM/ACS. He holds MS and PhD degrees in computer science from the University of Minnesota. At present, he is on leave from the NCSU and working as Distinguished Research Fellow at Lirio.
+---------------------------------------
+
 <br />
 <br />
 
