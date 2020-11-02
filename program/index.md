@@ -13,7 +13,7 @@ header:
    permalink: "/program/"
 ---
 
-Join us on <a target="_blank"  href="https://acm-org.zoom.us/j/99338092137?pwd=QmxiMzk4MXJFS3QreVNYUXJxREZDdz09"><img src="../images/zoom_icon.png" style="max-height:16px;"></a>   <a target="_blank" href="https://app.slack.com/client/T01AC1CEALW/C01BFN67K1V"><img src="../images/slack_icon.png" style="max-height:16px;"></a>
+Join us on <a target="_blank"  href="https://acm-org.zoom.us/j/99338092137?pwd=QmxiMzk4MXJFS3QreVNYUXJxREZDdz09"><img src="../images/zoom_icon.png" style="max-height:20px;"></a>   <a target="_blank" href="https://app.slack.com/client/T01AC1CEALW/C01BFN67K1V"><img src="../images/slack_icon.png" style="max-height:20px;"></a>
 
 **All times are in PST**
 
@@ -75,7 +75,6 @@ Join us on <a target="_blank"  href="https://acm-org.zoom.us/j/99338092137?pwd=Q
 
 ---------------------------------------
 
-<br />
 <br />
 
 
