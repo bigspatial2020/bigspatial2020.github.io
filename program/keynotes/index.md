@@ -42,11 +42,9 @@ This talk is intended to showcase the scalability of MoveTK to large geo-spatial
 #### Speaker Bio: 
 Aniket Mitra is a Lead Research Engineer at HERE Technologies working on algorithms with a focus on movement analysis. He is also responsible for the design and implementation of the core components of MoveTK. Prior to his current position, he has worked in the R&D departments of various companies including a number of startups. Aniket has a Masters degree in Applied Mathematics from Vrije University.
 
-<br />
-
 ---------------------------------------
 <a id="talk2"> </a> 
-  
+ 
 #### Title: GeoAI: Recent Advances in Machine Learning for Global Earth Observations
 
 #### Speaker: Dr. Ranga Raju Vatsavai    
@@ -61,8 +59,6 @@ Dr. Raju Vatsavai is a Chancellor’s Faculty Excellence Program Cluster Associa
 He works at the intersection of spatial and temporal big data management, analytics, and high-performance computing with applications in the national security, geospatial intelligence, natural resources, climate change, location-based services, and human terrain mapping. As the Associate Director of the Center for Geospatial Analytics (CGA), Raju plays a leadership role in the center’s strategic vision for spatial computing research.  
 
 He has published more than 100 peer-reviewed articles in conferences and journals and edited two books on “Knowledge Discovery from Sensor Data.” He served on program committees of leading international conference including ACM KDD, ACM GIS, ECML/PKDD, SDM, CIKM, IEEE BigData, and co-chaired several workshops including ICDM/SSTDM, ICDM/KDCloud, ACM SIGSPATIAL BigSpatial, Supercomputing/BDAC, KDD/LDMTA, KDD/Sensor-KDD, and SDM/ACS. He holds MS and PhD degrees in computer science from the University of Minnesota. At present, he is on leave from the NCSU and working as Distinguished Research Fellow at Lirio.
-
-<br />
 
 ---------------------------------------
 
