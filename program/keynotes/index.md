@@ -64,6 +64,7 @@ Dr. Raju Vatsavai is a Chancellor’s Faculty Excellence Program Cluster Associa
 He works at the intersection of spatial and temporal big data management, analytics, and high-performance computing with applications in the national security, geospatial intelligence, natural resources, climate change, location-based services, and human terrain mapping. As the Associate Director of the Center for Geospatial Analytics (CGA), Raju plays a leadership role in the center’s strategic vision for spatial computing research. 
 
 He has published more than 100 peer-reviewed articles in conferences and journals and edited two books on “Knowledge Discovery from Sensor Data.” He served on program committees of leading international conference including ACM KDD, ACM GIS, ECML/PKDD, SDM, CIKM, IEEE BigData, and co-chaired several workshops including ICDM/SSTDM, ICDM/KDCloud, ACM SIGSPATIAL BigSpatial, Supercomputing/BDAC, KDD/LDMTA, KDD/Sensor-KDD, and SDM/ACS. He holds MS and PhD degrees in computer science from the University of Minnesota. At present, he is on leave from the NCSU and working as Distinguished Research Fellow at Lirio.
+
 ---------------------------------------
 
 <br />
