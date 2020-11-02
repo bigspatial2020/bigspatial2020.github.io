@@ -46,7 +46,7 @@ header:
 #### Session 2
 
 * `09:55 - 10:40` : **GeoAI: Recent Advances in Machine Learning for Global Earth Observations**    
-*Ranga Raju Vatsavai, North Carolina State University*  -- [**Keynote Talk**](/program/keynotes/#talk2)
+*Dr. Ranga Raju Vatsavai, North Carolina State University*  -- [**Keynote Talk**](/program/keynotes/#talk2)
 
 * `10:40 - 11:05` : **Giving meaning to unsupervised EO change detection rasters: a semantic-driven approach** <a target="_blank"  href="https://youtu.be/A8JFugW1qjg"  class="confimage"><img src="../images/youtube_icon.png" style="max-height:16px;"></a>  
 *Jordane Dorne, Nathalie Aussenac-Gilles, Catherine Comparot, Cassia Trojahn, Romain Hugues*
