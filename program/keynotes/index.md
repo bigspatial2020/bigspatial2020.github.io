@@ -14,12 +14,16 @@ header:
 ---
   
 <style type="text/css">
-.image-left {
-display: block;
-margin-left: auto;
-margin-right: 10px;
-float: left;
-}
+	.image-left {
+		display: block;
+		margin-left: auto;
+		margin-right: 10px;
+		float: left;
+	}
+	.confimage:hover {
+		opacity: 0.5;
+		cursor: pointer; 
+	}
 </style> 
 
 ---------------------------------------
@@ -64,7 +68,6 @@ He has published more than 100 peer-reviewed articles in conferences and journal
 
 ---------------------------------------
 
-<br />
 <br />
 
 
