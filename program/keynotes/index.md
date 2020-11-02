@@ -42,7 +42,7 @@ This talk is intended to showcase the scalability of MoveTK to large geo-spatial
 #### Speaker Bio: 
 Aniket Mitra is a Lead Research Engineer at HERE Technologies working on algorithms with a focus on movement analysis. He is also responsible for the design and implementation of the core components of MoveTK. Prior to his current position, he has worked in the R&D departments of various companies including a number of startups. Aniket has a Masters degree in Applied Mathematics from Vrije University.
 
-
+<br />
 ---------------------------------------
 <a id="talk2"> </a> 
   
