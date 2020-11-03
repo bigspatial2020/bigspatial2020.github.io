@@ -40,7 +40,7 @@ Join us on <a target="_blank"  href="https://acm-org.zoom.us/j/99338092137?pwd=Q
 
 #### Session 2
 
-* `09:55 - 10:40` : **GeoAI: Recent Advances in Machine Learning for Global Earth Observations**    
+* `09:55 - 10:40` : **GeoAI: Recent Advances in Machine Learning for Global Earth Observations** <a target="_blank"  href="https://youtu.be/EX0642YHS3M"><img src="../images/youtube_icon.png" style="max-height:16px;"></a>    
 *Dr. Ranga Raju Vatsavai, North Carolina State University*  -- [**Keynote Talk**](/program/keynotes/#talk2)
 
 * `10:40 - 11:05` : **Giving meaning to unsupervised EO change detection rasters: a semantic-driven approach** <a target="_blank"  href="https://youtu.be/A8JFugW1qjg"><img src="../images/youtube_icon.png" style="max-height:16px;"></a>  
